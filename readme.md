@@ -20,8 +20,5 @@ El repositorio se organiza de la siguiente manera:
 - **Prompt Modelo**: Un prompt base en formato Markdown que sirve para generar temarios detallados. Este prompt puede ser personalizado para abordar cualquier área de conocimiento.
 - **Temarios Generados**: Una colección de temarios sobre diversos temas. Cada temario incluye temas principales, subtemas detallados, ejemplos prácticos, y recursos adicionales.
 
-## Licencia
-[Incluir detalles de la licencia aquí, si aplica]
-
 ## Contacto
-Para preguntas, sugerencias o colaboraciones, puedes contactarme a través de [detalles de contacto o enlace a perfil de GitHub].
+Para preguntas, sugerencias o colaboraciones, puedes contactarme a través de instagram @josemercado.music o través de mi perfil de Github.
